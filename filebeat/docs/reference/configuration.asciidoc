@@ -16,6 +16,7 @@ configuration settings, you need to restart {beatname_uc} to pick up the changes
 * <<elasticsearch-output>>
 * <<logstash-output>>
 * <<kafka-output>>
+* <<kinesis-output>>
 * <<redis-output>>
 * <<file-output>>
 * <<console-output>>
